@@ -1,4 +1,4 @@
-# Movies Website
+# Movies Websitea
 The objective of this project is to get experience in developing a network application based on the client/server architecture.
 
 The project is a website which acts as a simple movie database. It allows the users to lookup movies descriptions, release dates, trailers… etc. Users are also allowed to create an account, add movies to their watchlist and search for movies.
